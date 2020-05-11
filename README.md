@@ -12,8 +12,10 @@
 
  * An Artist of the Floating World, by Kazuo Ishiguro
  * Waiting, by Ha Jin
+ * Inland, by Téa Obreht
  * Less, by Andrew Sean Greer
  * Pachinko, by Min Jin Lee
+ * Normal People, by Sally Rooney
  * A Fine Balance, by Rohinton Mistry
  * Exit West, by Mohsin Hamid
  
