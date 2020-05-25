@@ -32,6 +32,7 @@ XCIV
  * Normal People, by Sally Rooney
  * A Fine Balance, by Rohinton Mistry
  * Exit West, by Mohsin Hamid
+ * The Goldfinch, by Donna Tartt
  
 
 ## non-fiction
