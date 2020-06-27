@@ -33,9 +33,10 @@ XCIV
  * A Fine Balance, by Rohinton Mistry
  * Exit West, by Mohsin Hamid
  * The Goldfinch, by Donna Tartt
+ * Annihilation, by Jeff VanderMeer
  
 
 ## non-fiction
 
  * Talking to Strangers, by Malcom Gladwell
-
+ * Wave, by Sonali Deraniyagala
