@@ -27,6 +27,7 @@ XCIV
  * An Artist of the Floating World, by Kazuo Ishiguro
  * Waiting, by Ha Jin
  * Inland, by Téa Obreht
+ * Recursion, by Blake Crouch
  * Less, by Andrew Sean Greer
  * Pachinko, by Min Jin Lee
  * Normal People, by Sally Rooney
@@ -34,7 +35,9 @@ XCIV
  * Exit West, by Mohsin Hamid
  * The Goldfinch, by Donna Tartt
  * Annihilation, by Jeff VanderMeer
- 
+ * The Power, by Naomi Alderman
+ * Station Eleven, by Emily St. John Mandel
+ * My Year of Rest and Relaxation, by Ottessa Moshfegh
 
 ## non-fiction
 
