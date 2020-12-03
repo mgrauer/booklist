@@ -19,6 +19,7 @@
  * My Year of Rest and Relaxation, by Ottessa Moshfegh; 304p :four:
  * Outline, by Rachel Cusk; 258p :four:
  * In the Distance, by Hernan Diaz; 272p :four:
+ * Salvage the Bones, by Jesmyn Ward; 288p :five:
 
 ## non-fiction
 
@@ -26,3 +27,4 @@
  * Wave, by Sonali Deraniyagala; 240p :five:
  * The Warmth of Other Suns: The Epic Story of America's Great Migration, by Isabel Wilkerson; 640p :five:
  * The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company, by Robert Iger; 272p :four:
+ * The Five Dysfunctions of a Team; by Patrick Lencioni; 288p :five:
