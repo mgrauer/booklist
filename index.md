@@ -21,6 +21,7 @@
  * In the Distance, by Hernan Diaz; 272p `4`
  * Salvage the Bones, by Jesmyn Ward; 288p `5`
  * Department of Speculation, by Jenny Offill; 177p `5` `fresh`
+ * Shuggie Bain, by Douglas Stuart; 430p `5`
 
 ## non-fiction
 
@@ -30,3 +31,4 @@
  * The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company, by Robert Iger; 272p `4`
  * The Five Dysfunctions of a Team; by Patrick Lencioni; 288p `5`
  * Caste: The Origins of Our Discontents, by Isabel Wilkerson; 496p `5`
+ * The Culture Code: The Secrets of Highly Successful Groups, by Daniel Coyle; 304p `5` 
