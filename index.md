@@ -1,3 +1,23 @@
+# 2021
+
+## fiction
+
+ * The Sparrow, 1997, by Mary Doria Russell; 408p `5`
+ * Beartown, 2016, by Fredrik Backman; 415p `5`
+ * The Bear And The Nightingale, 2017, , 2016, by Katherine Arden; 347p `4`
+ * The Spy Who Came In From The Cold, 1963, by John Le Carre; 215p `5`
+ * The Library At Mount Char, 2015, by Scott Hawkins; 390p `5`
+ * Tar Baby, 1981, by Toni Morrison; 306p `4`
+ * Imagine Me Gone, 2016, by Adam Haslett; 356p `4`
+ * Killer Angels, 1975, by Michael Shaara; 337p `5`
+ * First Law Trilogy, by Joe Abercrombie `5`
+   * The Blade Itself, 2006; 536p
+   * Before They Are Hanged, 2007; 514p
+   * Last Argument of Kings, 2008; 656p
+ * Weather, 2020, by Jenny Offill; 201p `5`
+
+## non-fiction
+
 # 2020
 
 ## fiction
