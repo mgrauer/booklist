@@ -2,14 +2,14 @@
 
 ## fiction
 
- * The Sparrow, 1997, by Mary Doria Russell; 408p `5`
- * Beartown, 2016, by Fredrik Backman; 415p `5`
- * The Bear And The Nightingale, 2017, , 2016, by Katherine Arden; 347p `4`
- * The Spy Who Came In From The Cold, 1963, by John Le Carre; 215p `5`
- * The Library At Mount Char, 2015, by Scott Hawkins; 390p `5`
- * Tar Baby, 1981, by Toni Morrison; 306p `4`
- * Imagine Me Gone, 2016, by Adam Haslett; 356p `4`
- * Killer Angels, 1975, by Michael Shaara; 337p `5`
+ * The Sparrow, by Mary Doria Russell, 1997; 408p `5`
+ * Beartown, by Fredrik Backman, 2016; 415p `5`
+ * The Bear And The Nightingale, by Katherine Arden, 2017; 347p `4`
+ * The Spy Who Came In From The Cold, by John Le Carre, 1963; 215p `5`
+ * The Library At Mount Char, by Scott Hawkins, 2015; 390p `5`
+ * Tar Baby, by Toni Morrison, 1981; 306p `4`
+ * Imagine Me Gone, by Adam Haslett, 2016; 356p `4`
+ * Killer Angels, by Michael Shaara, 1975; 337p `5`
  * First Law Trilogy, by Joe Abercrombie `5`
    * The Blade Itself, 2006; 536p
    * Before They Are Hanged, 2007; 514p
@@ -17,6 +17,31 @@
  * Weather, 2020, by Jenny Offill; 201p `5`
 
 ## non-fiction
+
+ * Titan, by Ron Chernow, 1998; 676p `4`
+ * My Life in France, by Julia Child with Alex Prud'homme, 2006; 333p `5`
+ * Empire of the Summer Moon, by S. C. Gwynne, 2010; 319p `5`
+ * Against the Grain: A Deep History of the Earliest States, by James. C. Scott, 2017; 256p `5`
+ 
+### china
+
+ * China Under Mao -- A Revolution Derailed, by Andrew Walder, 2015; 344p `4`
+ * Mr. China, by Tim Clissold, 2004; 262p `4`
+
+### professional
+
+ * Competing Against Luck, by Clayton M Christensen et al., 2016; 288p `5`
+ * Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers, by Geoffrey A. Moore, 1991; 227p `5`
+ * A Scrum Book: The Spirit of the Game, by Jeff Sutherland et al., 2019; 574p `3` (book) `5` (bookclub)
+ * The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up To Speed Faster and Smarter, by Michael Watkins, 2003; 212p `5`
+ * Multipliers: How the Best Leaders Make Everyone Smarter, by Liz Wizeman, 2010; 292p `4`
+ * Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations, by Nicole Forsgren, Jez Humble, and Gene Kim, 2018; 288p `5`
+
+#### interviewing
+
+ * Software Engineering Manager Interview Guide, by Vidal Graupera, 2020; 49p `3`
+ * System Design Interview, by Alex Xu, 2020; 322p `4`
+ * Fearless Salary Negotiation, by Josh Doody, 2015; 174p `4`
 
 # 2020
 
