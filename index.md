@@ -5,6 +5,11 @@
  * The Sky Is Yours, by Chandler Klang Smith, 2018; 455p `4`
  * Early Work, by Andrew Martin, 2018; 240p `4`
  * Barney's Version, by Mordecai Richler, 1997; 355p `5`
+ * Animal Dreams, by Barbara Kingsolver, 1990; 342p `5`
+ 
+## non-fiction
+
+ * The Last Old Place: A Search Through Portugal, by Datus C Proper, 1992; 235p `5`
 
 # 2021
 
