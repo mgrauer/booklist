@@ -6,10 +6,22 @@
  * Early Work, by Andrew Martin, 2018; 240p `4`
  * Barney's Version, by Mordecai Richler, 1997; 355p `5`
  * Animal Dreams, by Barbara Kingsolver, 1990; 342p `5`
+ * Half a King, by Joe Abercrombie, 2014; 333p `4`
+ * Brave Deeds, by David Abrams, 2017; 254p `4`
  
 ## non-fiction
 
- * The Last Old Place: A Search Through Portugal, by Datus C Proper, 1992; 235p `5`
+ * The Last Old Place: A Search Through Portugal, by Datus C. Proper, 1992; 235p `5`
+
+### professional
+
+ * The Essential Drucker, by Peter F. Drucker, 2001; 344p `5` (Peopleware bookclub)
+
+### real estate
+
+* Rich Dad Poor Dad, by Robert T. Kiyosaki with Sharon L. Lechter, 1997; 197p `5`
+* The Book on Tax Strategies for the Savvy Real Estate Investor (Volume 1 Beginner), by Amanda Han and Matthew MacFarland, 2016; 200p `4`
+* Retire Early With Real Estate, by Chad Carson, 2018; 282p `5`
 
 # 2021
 
@@ -44,10 +56,10 @@
 ### professional
 
  * Competing Against Luck, by Clayton M Christensen et al., 2016; 288p `5`
- * Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers, by Geoffrey A. Moore, 1991; 227p `5`
- * A Scrum Book: The Spirit of the Game, by Jeff Sutherland et al., 2019; 574p `3` (book) `5` (bookclub)
- * The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up To Speed Faster and Smarter, by Michael Watkins, 2003; 212p `5`
- * Multipliers: How the Best Leaders Make Everyone Smarter, by Liz Wizeman, 2010; 292p `4`
+ * Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers, by Geoffrey A. Moore, 1991; 227p `5` (Peopleware bookclub)
+ * A Scrum Book: The Spirit of the Game, by Jeff Sutherland et al., 2019; 574p `5` (Peopleware bookclub)
+ * The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up To Speed Faster and Smarter, by Michael Watkins, 2003; 212p `5` (Peopleware bookclub)
+ * Multipliers: How the Best Leaders Make Everyone Smarter, by Liz Wizeman, 2010; 292p `4` (Wayfair bookclub)
  * Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations, by Nicole Forsgren, Jez Humble, and Gene Kim, 2018; 288p `5`
 
 #### interviewing
