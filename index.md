@@ -8,10 +8,21 @@
  * Animal Dreams, by Barbara Kingsolver, 1990; 342p `5`
  * Half a King, by Joe Abercrombie, 2014; 333p `4`
  * Brave Deeds, by David Abrams, 2017; 254p `4`
+ * The Alchemist, by Paulo Coelho, 1993; 177p `4`
  
 ## non-fiction
 
  * The Last Old Place: A Search Through Portugal, by Datus C. Proper, 1992; 235p `5`
+ * Black Like Me, by John Howard Griffin, 50th Anniversary Edition, 2011, originally 1961; 201p `5`
+
+```
+Rest at pale evening...
+    A tall slim tree...
+  Night coming tenderly
+      Black like me.
+```
+--Langston Hughes, from "Dream Variation"
+
 
 ### professional
 
@@ -22,6 +33,7 @@
 * Rich Dad Poor Dad, by Robert T. Kiyosaki with Sharon L. Lechter, 1997; 197p `5`
 * The Book on Tax Strategies for the Savvy Real Estate Investor (Volume 1 Beginner), by Amanda Han and Matthew MacFarland, 2016; 200p `4`
 * Retire Early With Real Estate, by Chad Carson, 2018; 282p `5`
+* How to Invest in Real Estate, by Josh Dorkin and Branden Turner, 2018; 327p `4`
 
 # 2021
 
