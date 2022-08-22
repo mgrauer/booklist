@@ -27,6 +27,7 @@ Rest at pale evening...
 ### professional
 
  * The Essential Drucker, by Peter F. Drucker, 2001; 344p `5` (Peopleware bookclub)
+ * No Rules Rules: Netflix and the Culture of Reinvention, by Reed Hastings and Erin Meyer, 2020; 272p `4` (Peopleware bookclub)
 
 ### real estate
 
@@ -34,6 +35,7 @@ Rest at pale evening...
 * The Book on Tax Strategies for the Savvy Real Estate Investor (Volume 1 Beginner), by Amanda Han and Matthew MacFarland, 2016; 200p `4`
 * Retire Early With Real Estate, by Chad Carson, 2018; 282p `5`
 * How to Invest in Real Estate, by Josh Dorkin and Branden Turner, 2018; 327p `4`
+* The Book on Rental Property Investing, by Brandon Turner, 2015; 340p `4`
 
 # 2021
 
