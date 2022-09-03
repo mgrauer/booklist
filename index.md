@@ -9,6 +9,7 @@
  * Half a King, by Joe Abercrombie, 2014; 333p `4`
  * Brave Deeds, by David Abrams, 2017; 254p `4`
  * The Alchemist, by Paulo Coelho, 1993; 177p `4`
+ * Deacon King Kong, by James McBride, 2020; 370p `4`
  
 ## non-fiction
 
