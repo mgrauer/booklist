@@ -10,6 +10,7 @@
  * Brave Deeds, by David Abrams, 2017; 254p `4`
  * The Alchemist, by Paulo Coelho, 1993; 177p `4`
  * Deacon King Kong, by James McBride, 2020; 370p `4`
+ * The Sword in the Stone, by T.H. White, 1938; 358p `4`
  
 ## non-fiction
 
@@ -37,6 +38,10 @@ Rest at pale evening...
 * Retire Early With Real Estate, by Chad Carson, 2018; 282p `5`
 * How to Invest in Real Estate, by Josh Dorkin and Branden Turner, 2018; 327p `4`
 * The Book on Rental Property Investing, by Brandon Turner, 2015; 340p `4`
+
+### china
+
+* Factory Girls: From Village to City in a Changing China, by Leslie T. Chang, 2008; 434p `4`
 
 # 2021
 
