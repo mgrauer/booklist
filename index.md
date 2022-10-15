@@ -9,8 +9,11 @@
  * Half a King, by Joe Abercrombie, 2014; 333p `4`
  * Brave Deeds, by David Abrams, 2017; 254p `4`
  * The Alchemist, by Paulo Coelho, 1993; 177p `4`
- * Deacon King Kong, by James McBride, 2020; 370p `4`
+ * Deacon King Kong, by James McBride, 2020; 370p `5`
  * The Sword in the Stone, by T.H. White, 1938; 358p `4`
+ * Codex, by Lev Grossman, 2004; 376p `5`
+ * Beautiful World, Where Are You, by Sally Rooney; 2021; 368p `5`
+ * How to Get Filty Rich in Rising Asia, by Mohsin Hamid; 2013, 230p `5`
  
 ## non-fiction
 
