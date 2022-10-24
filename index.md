@@ -1,4 +1,4 @@
-# 2022
+# 2022 (23)
 
 ## fiction
 
@@ -33,6 +33,7 @@ Rest at pale evening...
 
  * The Essential Drucker, by Peter F. Drucker, 2001; 344p `5` (Peopleware bookclub)
  * No Rules Rules: Netflix and the Culture of Reinvention, by Reed Hastings and Erin Meyer, 2020; 272p `4` (Peopleware bookclub)
+ * The Goal, a Process of Ongoing Improvement, by Eliyahu M. Goldratt and Jeff Cox, 1984; 337p `5`
 
 ### real estate
 
@@ -46,7 +47,7 @@ Rest at pale evening...
 
 * Factory Girls: From Village to City in a Changing China, by Leslie T. Chang, 2008; 434p `4`
 
-# 2021
+# 2021 (27)
 
 ## fiction
 
@@ -91,7 +92,7 @@ Rest at pale evening...
  * System Design Interview, by Alex Xu, 2020; 322p `4`
  * Fearless Salary Negotiation, by Josh Doody, 2015; 174p `4`
 
-# 2020
+# 2020 (27)
 
 ## fiction
 
