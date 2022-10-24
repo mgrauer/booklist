@@ -35,6 +35,17 @@ Rest at pale evening...
  * No Rules Rules: Netflix and the Culture of Reinvention, by Reed Hastings and Erin Meyer, 2020; 272p `4` (Peopleware bookclub)
  * The Goal, a Process of Ongoing Improvement, by Eliyahu M. Goldratt and Jeff Cox, 1984; 337p `5`
 
+```
+Five Focusing Steps
+
+1. IDENTIFY the system's constraint.
+2. Decide how to EXPLOIT the system's constraint.
+3. SUBORDINATE everything else to the above decisions.
+4. ELEVATE the system's constraint.
+5. If in the previous steps a constraint has been broken GO back to step 1,
+   but do not allow INERTIA to cause a system constraint.
+```
+
 ### real estate
 
 * Rich Dad Poor Dad, by Robert T. Kiyosaki with Sharon L. Lechter, 1997; 197p `5`
