@@ -1,4 +1,4 @@
-# 2022 (23)
+# 2022 (26)
 
 ## fiction
 
@@ -12,8 +12,9 @@
  * Deacon King Kong, by James McBride, 2020; 370p `5`
  * The Sword in the Stone, by T.H. White, 1938; 358p `4`
  * Codex, by Lev Grossman, 2004; 376p `5`
- * Beautiful World, Where Are You, by Sally Rooney; 2021; 368p `5`
- * How to Get Filty Rich in Rising Asia, by Mohsin Hamid; 2013, 230p `5`
+ * Beautiful World, Where Are You, by Sally Rooney, 2021; 368p `5`
+ * How to Get Filthy Rich in Rising Asia, by Mohsin Hamid, 2013; 230p `5`
+ * The Promise, by Damon Dalgut, 2021; 242p `4`
  
 ## non-fiction
 
@@ -33,6 +34,8 @@ Rest at pale evening...
 
  * The Essential Drucker, by Peter F. Drucker, 2001; 344p `5` (Peopleware bookclub)
  * No Rules Rules: Netflix and the Culture of Reinvention, by Reed Hastings and Erin Meyer, 2020; 272p `4` (Peopleware bookclub)
+ * The Art of Woo: Using strategic persuasion to sell your ideas, by G. Richard Shell and Mario Moussa, 2007; 268p `5` (Peopleware bookclub)
+ * Masters of Doom: How two guys created an empire and transformed pop culture, by David Kushner, 2003; 301p `4`
  * The Goal, a Process of Ongoing Improvement, by Eliyahu M. Goldratt and Jeff Cox, 1984; 337p `5`
 
 ```
