@@ -1,4 +1,4 @@
-# 2022 (26)
+# 2022 (30)
 
 ## fiction
 
@@ -15,10 +15,12 @@
  * Beautiful World, Where Are You, by Sally Rooney, 2021; 368p `5`
  * How to Get Filthy Rich in Rising Asia, by Mohsin Hamid, 2013; 230p `5`
  * The Promise, by Damon Dalgut, 2021; 242p `4`
+ * Sideways, by Rex Pickett, 2004; 351p, `4`
  
 ## non-fiction
 
  * The Last Old Place: A Search Through Portugal, by Datus C. Proper, 1992; 235p `5`
+ * Eat Pray Love, by Elizabeth Gilbert, 2006; 331p `5`
  * Black Like Me, by John Howard Griffin, 50th Anniversary Edition, 2011, originally 1961; 201p `5`
 
 ```
@@ -36,6 +38,8 @@ Rest at pale evening...
  * No Rules Rules: Netflix and the Culture of Reinvention, by Reed Hastings and Erin Meyer, 2020; 272p `4` (Peopleware bookclub)
  * The Art of Woo: Using strategic persuasion to sell your ideas, by G. Richard Shell and Mario Moussa, 2007; 268p `5` (Peopleware bookclub)
  * Masters of Doom: How two guys created an empire and transformed pop culture, by David Kushner, 2003; 301p `4`
+ * The Culture Code: The Secrets of Highly Successful Groups, by Daniel Coyle; 304p `4` (Re-read in a bookclub with my newly formed team) 
+ * The Culture Map: Breaking Through the Invisible Boundaries of Global Business, by Erin Meyer, 2014; 288p `5`
  * The Goal, a Process of Ongoing Improvement, by Eliyahu M. Goldratt and Jeff Cox, 1984; 337p `5`
 
 ```
@@ -48,6 +52,9 @@ Five Focusing Steps
 5. If in the previous steps a constraint has been broken GO back to step 1,
    but do not allow INERTIA to cause a system constraint.
 ```
+
+
+
 
 ### real estate
 
