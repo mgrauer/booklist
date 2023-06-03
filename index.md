@@ -1,3 +1,29 @@
+# 2023 (8)
+
+## fiction
+
+* Leviathan Wakes
+* Caliban's War
+* Abaddon's Gate
+* Cibola Burn
+* The Raven Tower
+
+## non-fiction
+
+* Good to Great
+* This Might Get Me Fired
+* The Psychology of Money
+
+## Possible (7)
+
+* Distributed Systems
+* How to Measure Anything
+* Extreme Ownership
+* In Patagonia
+* Baudolino
+* Grape Olive Pig
+* Modern Software Engineering
+
 # 2022 (30)
 
 ## fiction
