@@ -1,4 +1,4 @@
-# 2023 (8)
+# 2023 (12)
 
 ## fiction
 
@@ -7,21 +7,21 @@
 * Abaddon's Gate
 * Cibola Burn
 * The Raven Tower
+* Baudolino
 
 ## non-fiction
 
 * Good to Great
 * This Might Get Me Fired
 * The Psychology of Money
-
-## Possible (7)
-
-* Distributed Systems
 * How to Measure Anything
 * Extreme Ownership
-* In Patagonia
-* Baudolino
 * Grape Olive Pig
+
+## Possible (3)
+
+* Distributed Systems
+* In Patagonia
 * Modern Software Engineering
 
 # 2022 (30)
