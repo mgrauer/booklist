@@ -1,4 +1,4 @@
-# 2023 (12)
+# 2023 (13)
 
 ## fiction
 
@@ -8,6 +8,7 @@
 * Cibola Burn
 * The Raven Tower
 * Baudolino
+* Ysabel, by Guy Gavriel Kay, 2008; 416p `5` 
 
 ## non-fiction
 
