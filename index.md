@@ -1,4 +1,4 @@
-# 2023 (13)
+# 2023 (24)
 
 ## fiction
 
@@ -6,24 +6,33 @@
 * Caliban's War
 * Abaddon's Gate
 * Cibola Burn
+* Gods of Risk
+* Babylon's Ashes
+* Nemesis Games
+* Persepolis Rising
+* Tiamat's Wrath
+* Leviathan Falls
 * The Raven Tower
 * Baudolino
-* Ysabel, by Guy Gavriel Kay, 2008; 416p `5` 
+* Ysabel, by Guy Gavriel Kay, 2008; 416p `5`
+* The Last White Man
+* Termination Shock
+* Demon Copperhead
 
 ## non-fiction
 
+* The Psychology of Money
+* Grape Olive Pig
+* The Song of the Cell
+
+
+### professional
+
 * Good to Great
 * This Might Get Me Fired
-* The Psychology of Money
+* Built to Last
 * How to Measure Anything
 * Extreme Ownership
-* Grape Olive Pig
-
-## Possible (3)
-
-* Distributed Systems
-* In Patagonia
-* Modern Software Engineering
 
 # 2022 (30)
 
