@@ -1,3 +1,42 @@
+# 2023 (24)
+
+## fiction
+
+* The Raven Tower, by Ann Leckie, 2019; 465p `5`
+* Baudolino, by Umberto Eco, 2003; 549p `3`
+* Ysabel, by Guy Gavriel Kay, 2008; 416p `5`
+* The Last White Man, by Mohsin Hamid, 2022; 188p `5`
+* Termination Shock, by Neal Stephenson, 2021; 716p `4`
+* Demon Copperhead, by Barbara Kingsolver, 2022; 560p `5`
+
+### The Expanse Series `5`
+
+* Leviathan Wakes, by James S.A. Corey, 2011; 592p
+* The Butcher of Anderson Station, by James S.A. Corey, 2011; 77p
+* Caliban's War, by James S.A. Corey, 2012; 595p
+* Gods of Risk, by James S.A. Corey, 2012; 78p
+* Abaddon's Gate, by James S.A. Corey, 2013; 539p
+* Cibola Burn, by James S.A. Corey, 2014; 583p
+* Nemesis Games, by James S.A. Corey, 2015; 544p
+* Babylon's Ashes, by James S.A. Corey, 2016; 608p
+* Persepolis Rising, by James S.A. Corey, 2017; 560p
+* Tiamat's Wrath, by James S.A. Corey, 2019; 528p
+* Leviathan Falls, by James S.A. Corey, 2021; 592p
+
+## non-fiction
+
+* The Psychology of Money: Timeless lessons on wealth, greed, and happiness, by Morgan Housel, 2020; 224p `5`
+* Grape Olive Pig: Deep Travels Through Spain's Food Culture, by Matt Goulding, 2016; 367p `5`
+* The Song of the Cell: An Exploration of Medicine and the New Human, by Siddhartha Mukherjee, 2022; 484p `4`
+
+### professional
+
+* Good to Great: Why Some Companies Make the Leap...And Others Don't, by Jim Collins, 2001; 400p `5`
+* This Might Get Me Fired: A Manual for Thriving in the Corporate Entrepreneurial Underground, by Gregory Larkin, 2018; 136p `2` (Peopleware bookclub)
+* Built to Last: Successful Habits of Visionary Companies, by Jim Collins and Jerry I. Porras, 2004; 368p `5`
+* How to Measure Anything - 3rd edition, by Douglas W. Hubbard, 2014; 432p `4` (Peopleware bookclub)
+* Extreme Ownership, by Jocko Willink and Leif Babin, 2017; 384p `5`
+
 # 2022 (30)
 
 ## fiction
@@ -30,7 +69,6 @@ Rest at pale evening...
       Black like me.
 ```
 --Langston Hughes, from "Dream Variation"
-
 
 ### professional
 
