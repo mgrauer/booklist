@@ -1,3 +1,18 @@
+# 2024 (5)
+
+## fiction
+* The Priory of the Orange Tree, by Samantha Shannon, 2019; 849p `4`
+* Chain Gang All-Stars, by Nana Kwame Adjei-Brenyah, 2023; 386p `4`
+* Some Desperate Glory, by Emily Tesh, 2023; 436p `4`
+* The Circumference of the World WIP
+
+## non-fiction
+* The Peter Principle: Why Things Always Go Wrong, by Lawrence J. Peter and Raymond Hull, 2011 (originally 1969); 192p `3` (Peopleware bookclub)
+* Homage to Catalonia, by George Orwell, 1938; 218p `4`
+* The 6 Types of Working Genius WIP
+
+
+
 # 2023 (24)
 
 ## fiction
