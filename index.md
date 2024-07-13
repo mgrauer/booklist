@@ -12,10 +12,9 @@
 
 * Homage to Catalonia, by George Orwell, 1938; 218p `4`
 * Going Infinite 5
-* Show Your Work WIP
-* Essentialism 5
 * Poverty, by America 3
 * The Premonition 5
+* The Rational Optimist WIP
 
 ### professional
 
@@ -29,6 +28,8 @@
 * Product Demos That Sell 4
 * Simple Path to Wealth 2
 * Brave New Words WIP
+* Show Your Work WIP
+* Essentialism 5
 
 
 
