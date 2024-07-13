@@ -6,7 +6,7 @@
 * Some Desperate Glory, by Emily Tesh, 2023; 436p `4`
 * The Circumference of the World 4
 * Shadow of the Wind 4
-* A Deadly Education WIP
+* A Deadly Education 4
 
 ## non-fiction
 
@@ -22,10 +22,13 @@
 * The Peter Principle: Why Things Always Go Wrong, by Lawrence J. Peter and Raymond Hull, 2011 (originally 1969); 192p `3` (Peopleware bookclub)
 * The 6 Types of Working Genius 4
 * Storyworthy WIP (Peopleware bookclub)
-* Co-Intelligence WIP
-* The Phoenix Project WIP
+* Co-Intelligence 4
+* The Phoenix Project 5
 * Understanding Variation, The Key to Managing Chaos WIP
-* Almanack of Naval Ravikant WIP
+* Almanack of Naval Ravikant 5
+* Product Demos That Sell 4
+* Simple Path to Wealth 2
+* Brave New Words WIP
 
 
 
