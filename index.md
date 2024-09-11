@@ -1,4 +1,4 @@
-# 2024 (20)
+# 2024 (22)
 
 ## fiction
 * The Priory of the Orange Tree, by Samantha Shannon, 2019; 849p `4`
@@ -7,6 +7,8 @@
 * The Circumference of the World 4
 * Shadow of the Wind 4
 * A Deadly Education 4
+* This is how you lose the time war WIP
+* Steppenwolf WIP
 
 ## non-fiction
 
@@ -15,23 +17,27 @@
 * Poverty, by America Audiobook 3
 * The Premonition 5
 * The Rational Optimist
-* Same as Ever WIP
+* Same as Ever
+* Seven Brief Lessons on Physics
+* Berlin, v1, 2, 3 [WIP]
+* Stasiland [WIP]
 
 ### professional
 
 * The Peter Principle: Why Things Always Go Wrong, by Lawrence J. Peter and Raymond Hull, 2011 (originally 1969); 192p `3` (Peopleware bookclub)
 * The 6 Types of Working Genius Audiobook 4
-* Storyworthy WIP (Peopleware bookclub)
+* Storyworthy (Peopleware bookclub)
 * Co-Intelligence 4; Audiobook
 * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win (Revised), by Gene Kim, Kevin Behr, and George Spafford, 2014; 379p `5`
 * Understanding Variation, The Key to Managing Chaos WIP
-* Almanack of Naval Ravikant Audiobook 5
+* Almanack of Naval Ravikant Audiobook 5, 2x audiobook
 * Product Demos That Sell: How to Deliver Winning Saas Demos, by Steli Efti, 2015; 66p `4`
 * Simple Path to Wealth Audiobook 2
 * Brave New Words: How AI Will Revolutionize Education (and Why That's a Good Thing), by Salman Khan, 2024; Audiobook, `3`
 * Show Your Work WIP
-* Essentialism 5
-
+* Essentialism 5, read and audiobook
+* Supercommunicators 5
+* 7 Powers: The Foundation of Business Strategy WIP
 
 
 
