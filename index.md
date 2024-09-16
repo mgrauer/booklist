@@ -7,7 +7,8 @@
 * The Circumference of the World 4
 * Shadow of the Wind 4
 * A Deadly Education 4
-* This is how you lose the time war WIP
+* This is how you lose the time war 4
+
 * Steppenwolf WIP
 
 ## non-fiction
@@ -16,29 +17,31 @@
 * Going Infinite 5
 * Poverty, by America Audiobook 3
 * The Premonition 5
-* The Rational Optimist
-* Same as Ever
-* Seven Brief Lessons on Physics
-* Berlin, v1, 2, 3 [WIP]
+* The Rational Optimist 5
+* Same as Ever 5
+* Seven Brief Lessons on Physics 4
+* Berlin, v1, 2, 3 `5`
+
 * Stasiland [WIP]
 
 ### professional
 
 * The Peter Principle: Why Things Always Go Wrong, by Lawrence J. Peter and Raymond Hull, 2011 (originally 1969); 192p `3` (Peopleware bookclub)
 * The 6 Types of Working Genius Audiobook 4
-* Storyworthy (Peopleware bookclub)
+* Storyworthy (Peopleware bookclub) 4
 * Co-Intelligence 4; Audiobook
-* The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win (Revised), by Gene Kim, Kevin Behr, and George Spafford, 2014; 379p `5`
-* Understanding Variation, The Key to Managing Chaos WIP
+* The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win (Revised), by Gene Kim, Kevin Behr, and George Spafford, 2014; 379p `4`
 * Almanack of Naval Ravikant Audiobook 5, 2x audiobook
 * Product Demos That Sell: How to Deliver Winning Saas Demos, by Steli Efti, 2015; 66p `4`
 * Simple Path to Wealth Audiobook 2
 * Brave New Words: How AI Will Revolutionize Education (and Why That's a Good Thing), by Salman Khan, 2024; Audiobook, `3`
-* Show Your Work WIP
 * Essentialism 5, read and audiobook
 * Supercommunicators 5
-* 7 Powers: The Foundation of Business Strategy WIP
 
+* Understanding Variation, The Key to Managing Chaos WIP
+* Show Your Work WIP
+* 7 Powers: The Foundation of Business Strategy WIP
+* Poor Charlie's Almanack WIP
 
 
 
