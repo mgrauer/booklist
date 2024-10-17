@@ -1,6 +1,7 @@
-# 2024 (22)
+# 2024 (28)
 
-## fiction
+## fiction (9)
+
 * The Priory of the Orange Tree, by Samantha Shannon, 2019; 849p `4`
 * Chain Gang All-Stars, by Nana Kwame Adjei-Brenyah, 2023; 386p `4`
 * Some Desperate Glory, by Emily Tesh, 2023; 436p `4`
@@ -8,10 +9,10 @@
 * Shadow of the Wind 4
 * A Deadly Education 4
 * This is how you lose the time war 4
+* Steppenwolf 4
+* Prophet Song 5
 
-* Steppenwolf WIP
-
-## non-fiction
+## non-fiction (8)
 
 * Homage to Catalonia, by George Orwell, 1938; 218p `4`
 * Going Infinite 5
@@ -20,11 +21,10 @@
 * The Rational Optimist 5
 * Same as Ever 5
 * Seven Brief Lessons on Physics 4
-* Berlin, v1, 2, 3 `5`
+* Berlin, v1, v2, v3 `5`
+* Stasiland `5`
 
-* Stasiland [WIP]
-
-### professional
+### professional (11)
 
 * The Peter Principle: Why Things Always Go Wrong, by Lawrence J. Peter and Raymond Hull, 2011 (originally 1969); 192p `3` (Peopleware bookclub)
 * The 6 Types of Working Genius Audiobook 4
