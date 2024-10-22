@@ -9,8 +9,10 @@
 * Shadow of the Wind 4
 * A Deadly Education 4
 * This is how you lose the time war 4
-* Steppenwolf 4
+* Steppenwolf 4 227 kurt beals
 * Prophet Song 5
+* [WIP] A Farewell to Arms
+* [WIP] Hard Times
 
 ## non-fiction (8)
 
