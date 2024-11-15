@@ -1,6 +1,6 @@
-# 2024 (28)
+# 2024 (32)
 
-## fiction (9)
+## fiction (10)
 
 * The Priory of the Orange Tree, by Samantha Shannon, 2019; 849p `4`
 * Chain Gang All-Stars, by Nana Kwame Adjei-Brenyah, 2023; 386p `4`
@@ -8,13 +8,14 @@
 * The Circumference of the World 4
 * Shadow of the Wind 4
 * A Deadly Education 4
-* This is how you lose the time war 4
+* This is how you lose the time war 3.5
 * Steppenwolf 4 227 kurt beals
 * Prophet Song 5
-* [WIP] A Farewell to Arms
+* A Farewell to Arms 4
 * [WIP] Hard Times
+* [WIP] Bright Sword
 
-## non-fiction (8)
+## non-fiction (9)
 
 * Homage to Catalonia, by George Orwell, 1938; 218p `4`
 * Going Infinite 5
@@ -26,7 +27,7 @@
 * Berlin, v1, v2, v3 `5`
 * Stasiland `5`
 
-### professional (11)
+### professional (13)
 
 * The Peter Principle: Why Things Always Go Wrong, by Lawrence J. Peter and Raymond Hull, 2011 (originally 1969); 192p `3` (Peopleware bookclub)
 * The 6 Types of Working Genius Audiobook 4
@@ -39,13 +40,13 @@
 * Brave New Words: How AI Will Revolutionize Education (and Why That's a Good Thing), by Salman Khan, 2024; Audiobook, `3`
 * Essentialism 5, read and audiobook
 * Supercommunicators 5
+* 7 Powers: The Foundation of Business Strategy 3.5
+* Poor Charlie's Almanack 5
 
-* Understanding Variation, The Key to Managing Chaos WIP
-* Show Your Work WIP
-* 7 Powers: The Foundation of Business Strategy WIP
-* Poor Charlie's Almanack WIP
-
-
+* WIP The Innovator's Dilemma
+* WIP The Anatomy of Fascism
+* WIP Understanding Variation, The Key to Managing Chaos
+* WIP Show Your Work
 
 
 # 2023 (24)
