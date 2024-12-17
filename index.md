@@ -1,4 +1,4 @@
-# 2024 (32)
+# 2024 (34)
 
 ## fiction (10)
 
@@ -15,7 +15,7 @@
 * [WIP] Hard Times
 * [WIP] Bright Sword
 
-## non-fiction (9)
+## non-fiction (24)
 
 * Homage to Catalonia, by George Orwell, 1938; 218p `4`
 * Going Infinite 5
@@ -26,9 +26,6 @@
 * Seven Brief Lessons on Physics 4
 * Berlin, v1, v2, v3 `5`
 * Stasiland `5`
-
-### professional (13)
-
 * The Peter Principle: Why Things Always Go Wrong, by Lawrence J. Peter and Raymond Hull, 2011 (originally 1969); 192p `3` (Peopleware bookclub)
 * The 6 Types of Working Genius Audiobook 4
 * Storyworthy (Peopleware bookclub) 4
@@ -42,11 +39,16 @@
 * Supercommunicators 5
 * 7 Powers: The Foundation of Business Strategy 3.5
 * Poor Charlie's Almanack 5
+* The Innovator's Dilemma 5
+* The Lessons of History 5
 
-* WIP The Innovator's Dilemma
 * WIP The Anatomy of Fascism
 * WIP Understanding Variation, The Key to Managing Chaos
 * WIP Show Your Work
+* WIP Orbiting the Giant Hairball
+* WIP Good Strategy Bad Strategy
+* WIP Modern Software Engineering
+* WIP The Seven Habits of Highly Effective People
 
 
 # 2023 (24)
