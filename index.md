@@ -49,6 +49,7 @@
 * WIP Good Strategy Bad Strategy
 * WIP Modern Software Engineering
 * WIP The Seven Habits of Highly Effective People
+* WIP Thinking in Bets
 
 
 # 2023 (24)
