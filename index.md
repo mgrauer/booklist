@@ -1,6 +1,6 @@
-# 2024 (34)
+# 2024 (36)
 
-## fiction (10)
+## fiction (11)
 
 * The Priory of the Orange Tree, by Samantha Shannon, 2019; 849p `4`
 * Chain Gang All-Stars, by Nana Kwame Adjei-Brenyah, 2023; 386p `4`
@@ -12,10 +12,10 @@
 * Steppenwolf 4 227 kurt beals
 * Prophet Song 5
 * A Farewell to Arms 4
-* [WIP] Hard Times
+* Hard Times, by Charles Dickens, 1854; 325p `3.5`
 * [WIP] Bright Sword
 
-## non-fiction (24)
+## non-fiction (25)
 
 * Homage to Catalonia, by George Orwell, 1938; 218p `4`
 * Going Infinite 5
@@ -41,15 +41,17 @@
 * Poor Charlie's Almanack 5
 * The Innovator's Dilemma 5
 * The Lessons of History 5
+* Understanding Variation, The Key to Managing Chaos 3.5
 
 * WIP The Anatomy of Fascism
-* WIP Understanding Variation, The Key to Managing Chaos
 * WIP Show Your Work
 * WIP Orbiting the Giant Hairball
 * WIP Good Strategy Bad Strategy
 * WIP Modern Software Engineering
 * WIP The Seven Habits of Highly Effective People
 * WIP Thinking in Bets
+* WIP Silence in the Age of Noise
+* WIP The Fish that Ate the Whale
 
 
 # 2023 (24)
