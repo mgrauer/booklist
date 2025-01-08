@@ -1,19 +1,35 @@
+# 2025 (2)
+
+## fiction (1)
+* The Bright Sword, by Lev Grossman, 2024; 673p `5`
+
+## non-fiction (1)
+* The Fish That Ate the Whale: The Life and Times of America's Banana King, by Rich Cohen, 2013; Audiobook `5`
+ 
+
+* WIP Orbiting the Giant Hairball
+* WIP Good Strategy Bad Strategy
+* WIP Modern Software Engineering
+* WIP The Seven Habits of Highly Effective People
+* WIP Thinking in Bets
+* WIP Silence in the Age of Noise
+* WIP The Anatomy of Fascism
+
 # 2024 (36)
 
 ## fiction (11)
 
-* The Priory of the Orange Tree, by Samantha Shannon, 2019; 849p `4`
-* Chain Gang All-Stars, by Nana Kwame Adjei-Brenyah, 2023; 386p `4`
+* The Priory of the Orange Tree, by Samantha Shannon, 2019; 849p `4.5`
+* Chain Gang All-Stars, by Nana Kwame Adjei-Brenyah, 2023; 386p `4.5`
 * Some Desperate Glory, by Emily Tesh, 2023; 436p `4`
-* The Circumference of the World 4
-* Shadow of the Wind 4
-* A Deadly Education 4
-* This is how you lose the time war 3.5
-* Steppenwolf 4 227 kurt beals
-* Prophet Song 5
-* A Farewell to Arms 4
+* The Circumference of the World, by Lavie Tidhar, 2023; 256p `4`
+* Shadow of the Wind, by Carlos Ruiz Zafon, 2005; 524p `4.5`
+* A Deadly Education, by Naomi Novik, 2021; 336p `4.5`
+* This Is How You Lose the Time War, by Amal El-Mohtar and Max Gladstone, 2020; 224p `3.5`
+* Steppenwolf, by Herman Hesse, 1927, translated by Kurt Beals, 2023; 227p `4`
+* Prophet Song, by Paul Lynch, 2023; 320p `5`
+* A Farewell to Arms, by Ernest Hemingway, 1929; 360p `4.5`
 * Hard Times, by Charles Dickens, 1854; 325p `3.5`
-* [WIP] Bright Sword
 
 ## non-fiction (25)
 
@@ -42,17 +58,6 @@
 * The Innovator's Dilemma 5
 * The Lessons of History 5
 * Understanding Variation, The Key to Managing Chaos 3.5
-
-* WIP The Anatomy of Fascism
-* WIP Show Your Work
-* WIP Orbiting the Giant Hairball
-* WIP Good Strategy Bad Strategy
-* WIP Modern Software Engineering
-* WIP The Seven Habits of Highly Effective People
-* WIP Thinking in Bets
-* WIP Silence in the Age of Noise
-* WIP The Fish that Ate the Whale
-
 
 # 2023 (24)
 
