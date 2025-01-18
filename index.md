@@ -1,18 +1,18 @@
-# 2025 (2)
+# 2025 (4)
 
 ## fiction (1)
 * The Bright Sword, by Lev Grossman, 2024; 673p `5`
 
-## non-fiction (1)
+## non-fiction (3)
 * The Fish That Ate the Whale: The Life and Times of America's Banana King, by Rich Cohen, 2013; Audiobook `5`
+* Thinking in Bets 4 
+* Silence in the Age of Noise 4
  
 
 * WIP Orbiting the Giant Hairball
 * WIP Good Strategy Bad Strategy
 * WIP Modern Software Engineering
 * WIP The Seven Habits of Highly Effective People
-* WIP Thinking in Bets
-* WIP Silence in the Age of Noise
 * WIP The Anatomy of Fascism
 
 # 2024 (36)
@@ -33,31 +33,31 @@
 
 ## non-fiction (25)
 
+* The Rational Optimist: How Prosperity Evolves, by Matt Ridley, 2011; 464p `5`
+* Same as Ever: Timeless Lessons on Risk, Opportunity and Living a Good Life, by Morgan Housel, 2023; 250p `5`
+* Going Infinite, by Michael Lewis, 2023; 288p, `5`
+* The Premonition, by Michael Lewis, 2022; 320p `5`
+* Berlin, by Jason Lutes. City of Smoke (2000). City of Stones (2008). City of Light (2018). `5`
+* Stasiland: Stories from Behind the Berlin Wall, by Anna Funder, 2011; 307p `5`
+* The Almanack of Naval Ravikant: A Guide to Wealth and Happiness, by Eric Jorgenson, 2020; Audiobook - listened 2x! `5`
+* Essentialism: The Disciplined Pursuit of Less, by Greg McKeown, 2020; 304p, both read and Audiobook `5`
+* Supercommunicators: How to Unlock the Secret Language of Connection, by Charles Duhigg, 2024; Audiobook `5`
+* Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger, by Charles T. Munger, edited by Peter D. Kaufman, 2023; 384p `5`
+* The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail, by Clayton M. Christensen, 2016; 288p `5`
+* The Lessons of History, by Will and Ariel Durant, 1968; 102p `5`
 * Homage to Catalonia, by George Orwell, 1938; 218p `4`
-* Going Infinite 5
-* Poverty, by America Audiobook 3
-* The Premonition 5
-* The Rational Optimist 5
-* Same as Ever 5
-* Seven Brief Lessons on Physics 4
-* Berlin, v1, v2, v3 `5`
-* Stasiland `5`
-* The Peter Principle: Why Things Always Go Wrong, by Lawrence J. Peter and Raymond Hull, 2011 (originally 1969); 192p `3` (Peopleware bookclub)
-* The 6 Types of Working Genius Audiobook 4
-* Storyworthy (Peopleware bookclub) 4
-* Co-Intelligence 4; Audiobook
+* Seven Brief Lessons on Physics, by Carlo Rovelli, 2012; 83p `4`
 * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win (Revised), by Gene Kim, Kevin Behr, and George Spafford, 2014; 379p `4`
-* Almanack of Naval Ravikant Audiobook 5, 2x audiobook
 * Product Demos That Sell: How to Deliver Winning Saas Demos, by Steli Efti, 2015; 66p `4`
-* Simple Path to Wealth Audiobook 2
+* The 6 Types of Working Genius: A Better Way to Understand Your Gifts, Your Frustrations, and Your Team, by Patrick M. Lencioni, 2022; Audiobook `4` 
+* Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling, by Matthew Dicks, 2018; 368p `4` (Peopleware bookclub)
+* Co-Intelligence: Living and Working with AI, by Ethan Mollick, 2023; Audiobook `4`
+* Understanding Variation, The Key to Managing Chaos, by Donald J. Wheeler, 2000; 151p `3.5`
+* 7 Powers: The Foundations of Business Strategy Kindle Edition, by Hamilton Helmer, 2016; 263p `4` (Peopleware bookclub)
 * Brave New Words: How AI Will Revolutionize Education (and Why That's a Good Thing), by Salman Khan, 2024; Audiobook, `3`
-* Essentialism 5, read and audiobook
-* Supercommunicators 5
-* 7 Powers: The Foundation of Business Strategy 3.5
-* Poor Charlie's Almanack 5
-* The Innovator's Dilemma 5
-* The Lessons of History 5
-* Understanding Variation, The Key to Managing Chaos 3.5
+* Poverty, by America, by Matthew Desmond, 2023; Audiobook `3`
+* The Peter Principle: Why Things Always Go Wrong, by Lawrence J. Peter and Raymond Hull, 2011 (originally 1969); 192p `3` (Peopleware bookclub)
+* The Simple Path to Wealth: Your Road Map to Financial Independence and a Rich, Free Life, by JL Collins, 2017; Audiobook `2`
 
 # 2023 (24)
 
