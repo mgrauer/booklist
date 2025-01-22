@@ -19,16 +19,16 @@
 
 ## fiction (11)
 
+* Prophet Song, by Paul Lynch, 2023; 320p `5`
 * The Priory of the Orange Tree, by Samantha Shannon, 2019; 849p `4.5`
 * Chain Gang All-Stars, by Nana Kwame Adjei-Brenyah, 2023; 386p `4.5`
-* Some Desperate Glory, by Emily Tesh, 2023; 436p `4`
-* The Circumference of the World, by Lavie Tidhar, 2023; 256p `4`
 * Shadow of the Wind, by Carlos Ruiz Zafon, 2005; 524p `4.5`
 * A Deadly Education, by Naomi Novik, 2021; 336p `4.5`
-* This Is How You Lose the Time War, by Amal El-Mohtar and Max Gladstone, 2020; 224p `3.5`
-* Steppenwolf, by Herman Hesse, 1927, translated by Kurt Beals, 2023; 227p `4`
-* Prophet Song, by Paul Lynch, 2023; 320p `5`
 * A Farewell to Arms, by Ernest Hemingway, 1929; 360p `4.5`
+* Some Desperate Glory, by Emily Tesh, 2023; 436p `4`
+* The Circumference of the World, by Lavie Tidhar, 2023; 256p `4`
+* Steppenwolf, by Herman Hesse, 1927, translated by Kurt Beals, 2023; 227p `4`
+* This Is How You Lose the Time War, by Amal El-Mohtar and Max Gladstone, 2020; 224p `3.5`
 * Hard Times, by Charles Dickens, 1854; 325p `3.5`
 
 ## non-fiction (25)
