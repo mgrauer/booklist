@@ -1,12 +1,13 @@
-# 2025 (4)
+# 2025 (5)
 
 ## fiction (1)
 * The Bright Sword, by Lev Grossman, 2024; 673p `5`
 
-## non-fiction (3)
+## non-fiction (4)
 * The Fish That Ate the Whale: The Life and Times of America's Banana King, by Rich Cohen, 2013; Audiobook `5`
-* Thinking in Bets 4 
-* Silence in the Age of Noise 4
+* Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life, by William Green, 2021; Audiobook `5`
+* Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts, by Annie Duke, 2018; 288p `4`
+* Silence: In the Age of Noise, by Erling Kagge (Author) and Becky L. Crook (Translator), 2017; 158p `4`
  
 
 * WIP Orbiting the Giant Hairball
