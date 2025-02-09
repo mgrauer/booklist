@@ -1,9 +1,8 @@
-# 2025 (6)
+# 2025 (7)
 
-## fiction (1)
+## fiction (2)
 * The Bright Sword, by Lev Grossman, 2024; 673p `5`
-
-* WIP The Grapes of Wrath, by John Steinbeck, 1939; 455p ``
+* The Grapes of Wrath, by John Steinbeck, 1939; 455p `5`
   
 ## non-fiction (5)
 * The Fish That Ate the Whale: The Life and Times of America's Banana King, by Rich Cohen, 2013; Audiobook `5`
