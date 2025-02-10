@@ -1,18 +1,20 @@
-# 2025 (7)
+# 2025 (8)
 
 ## fiction (2)
 * The Bright Sword, by Lev Grossman, 2024; 673p `5`
 * The Grapes of Wrath, by John Steinbeck, 1939; 455p `5`
   
-## non-fiction (5)
+## non-fiction (6)
 * The Fish That Ate the Whale: The Life and Times of America's Banana King, by Rich Cohen, 2013; Audiobook `5`
 * Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life, by William Green, 2021; Audiobook `5`
 * Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts, by Annie Duke, 2018; 288p `4`
 * Silence: In the Age of Noise, by Erling Kagge (Author) and Becky L. Crook (Translator), 2017; 158p `4`
 * The Little Book that Still Beats the Market, by Joel Greenblatt, 2010; 183p `4`
+* Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace, by Gordon MacKenzie, 1996; 224p `4` (Peopleware bookclub)
 
-* WIP Orbiting the Giant Hairball
 * WIP Good Strategy Bad Strategy
+* WIP The Outsiders
+* WIP Sam Walton, Made in America
 * WIP Modern Software Engineering
 * WIP The Seven Habits of Highly Effective People
 * WIP The Anatomy of Fascism
