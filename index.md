@@ -4,6 +4,8 @@
 * The Bright Sword, by Lev Grossman, 2024; 673p `5`
 * The Grapes of Wrath, by John Steinbeck, 1939; 455p `5`
   
+* WIP We Are Legion (We Are Bob), by Dennis E. Taylor, 2016; 299p
+  
 ## non-fiction (6)
 * The Fish That Ate the Whale: The Life and Times of America's Banana King, by Rich Cohen, 2013; Audiobook `5`
 * Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life, by William Green, 2021; Audiobook `5`
@@ -15,6 +17,8 @@
 * WIP Good Strategy Bad Strategy
 * WIP The Outsiders
 * WIP Sam Walton, Made in America
+* WIP In Over Our Heads: The Mental Demands of Modern Life, by Robert Kegan, 1994; 355p
+* WIP How to Use Financial Statments: A Guide to Understanding the Numbers, by James Bandler, 1994; 142p
 * WIP Modern Software Engineering
 * WIP The Seven Habits of Highly Effective People
 * WIP The Anatomy of Fascism
