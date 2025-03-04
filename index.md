@@ -1,9 +1,10 @@
-# 2025 (11)
+# 2025 (12)
 
-## fiction (3)
+## fiction (4)
 * The Bright Sword, by Lev Grossman, 2024; 673p `5`
 * The Grapes of Wrath, by John Steinbeck, 1939; 455p `5`
 * We Are Legion (We Are Bob), by Dennis E. Taylor, 2016; 299p `4.5`
+* Dungeon Crawler Carl, by Matt Dinniman, 2020; 433p `4.5`
   
 ## non-fiction (8)
 * The Fish That Ate the Whale: The Life and Times of America's Banana King, by Rich Cohen, 2013; Audiobook `5`
@@ -18,6 +19,7 @@
 * WIP Good Strategy Bad Strategy
 * WIP In Over Our Heads: The Mental Demands of Modern Life, by Robert Kegan, 1994; 355p
 * WIP How to Use Financial Statments: A Guide to Understanding the Numbers, by James Bandler, 1994; 142p
+* WIP The New Economics, by W. Edwards Deming, 1994; 234p
 * WIP Modern Software Engineering
 * WIP The Seven Habits of Highly Effective People
 * WIP The Anatomy of Fascism
