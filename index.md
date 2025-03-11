@@ -1,9 +1,10 @@
-# 2025 (12)
+# 2025 (13)
 
-## fiction (4)
+## fiction (5)
 * The Bright Sword, by Lev Grossman, 2024; 673p `5`
 * The Grapes of Wrath, by John Steinbeck, 1939; 455p `5`
 * We Are Legion (We Are Bob), by Dennis E. Taylor, 2016; 299p `4.5`
+* For We Are Many, by Dennis E. Taylor, 2017; 301p `4.5`
 * Dungeon Crawler Carl, by Matt Dinniman, 2020; 433p `4.5`
   
 ## non-fiction (8)
