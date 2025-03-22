@@ -1,4 +1,4 @@
-# 2025 (13)
+# 2025 (14)
 
 ## fiction (5)
 * The Bright Sword, by Lev Grossman, 2024; 673p `5`
@@ -7,9 +7,19 @@
 * For We Are Many, by Dennis E. Taylor, 2017; 301p `4.5`
 * Dungeon Crawler Carl, by Matt Dinniman, 2020; 433p `4.5`
   
-## non-fiction (8)
+## non-fiction (9)
 * The Fish That Ate the Whale: The Life and Times of America's Banana King, by Rich Cohen, 2013; Audiobook `5`
 * Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life, by William Green, 2021; Audiobook `5`
+* Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers, by Geoffrey A. Moore, 2012; Audiobook `5`
+
+```
+We shall not cease from exploration
+And the end of all our exploring
+Will be to arrive where we started
+And know the place for the first time.
+```
+--T. S. Eliot
+
 * Sam Walton, Made in America, by Sam Walton with John Huey, 1993; Audiobook `4.5`
 * Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts, by Annie Duke, 2018; 288p `4`
 * Silence: In the Age of Noise, by Erling Kagge (Author) and Becky L. Crook (Translator), 2017; 158p `4`
