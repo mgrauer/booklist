@@ -1,4 +1,4 @@
-# 2025 (14)
+# 2025 (15)
 
 ## fiction (5)
 * The Bright Sword, by Lev Grossman, 2024; 673p `5`
@@ -7,7 +7,7 @@
 * For We Are Many, by Dennis E. Taylor, 2017; 301p `4.5`
 * Dungeon Crawler Carl, by Matt Dinniman, 2020; 433p `4.5`
   
-## non-fiction (9)
+## non-fiction (10)
 * The Fish That Ate the Whale: The Life and Times of America's Banana King, by Rich Cohen, 2013; Audiobook `5`
 * Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life, by William Green, 2021; Audiobook `5`
 * Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers, by Geoffrey A. Moore, 2012; Audiobook `5`
@@ -25,7 +25,8 @@ And know the place for the first time.
 * Silence: In the Age of Noise, by Erling Kagge (Author) and Becky L. Crook (Translator), 2017; 158p `4`
 * The Little Book that Still Beats the Market, by Joel Greenblatt, 2010; 183p `4`
 * Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace, by Gordon MacKenzie, 1996; 224p `4` (Peopleware bookclub)
-* The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success, by William N. Thorndike, Jr., 2012; 226p; `4+ TBD`
+* The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success, by William N. Thorndike, Jr., 2012; 226p `4`
+* Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering, by Malcolm Gladwell, 2024; 304p `4`
 
 * WIP Good Strategy Bad Strategy
 * WIP In Over Our Heads: The Mental Demands of Modern Life, by Robert Kegan, 1994; 355p
