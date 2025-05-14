@@ -1,14 +1,20 @@
-# 2025 (16)
+# 2025 (21)
 
-## fiction (6)
+## fiction (9)
 * The Bright Sword, by Lev Grossman, 2024; 673p `5`
 * The Grapes of Wrath, by John Steinbeck, 1939; 455p `5`
 * We Are Legion (We Are Bob), by Dennis E. Taylor, 2016; 299p `4.5`
 * For We Are Many, by Dennis E. Taylor, 2017; 301p `4.5`
-* Dungeon Crawler Carl, by Matt Dinniman, 2020; 433p `4.5`
 * Flying Home and Other Stories, by Ralph Ellison, stories written between 1937 and 1954, published in 1996; 182p `4.5`
+
+### Dungeon Crawler Carl
+* Dungeon Crawler Carl, by Matt Dinniman, 2020; 433p `4.5`
+* Carl's Doomsday Scenario: Dungeon Crawler Carl Book 2, by Matt Dinniman, 2021; 364p `4`
+* The Dungeon Anarchist's Cookbook: Dungeon Crawler Carl Book 3, by Matt Dinniman, 2021; 534p `4`
+* The Gate of the Feral Gods: Dungeon Crawler Carl Book 4, by Matt Dinniman, 2021; 586p `4`
+* WIP The Butcher's Masquerade: Dungeon Crawler Carl Book 5, by Matt Dinniman, 2022; 732p
   
-## non-fiction (10)
+## non-fiction (12)
 * The Fish That Ate the Whale: The Life and Times of America's Banana King, by Rich Cohen, 2013; Audiobook `5`
 * Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life, by William Green, 2021; Audiobook `5`
 * Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers, by Geoffrey A. Moore, 2012; Audiobook `5`
@@ -28,9 +34,13 @@ And know the place for the first time.
 * Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace, by Gordon MacKenzie, 1996; 224p `4` (Peopleware bookclub)
 * The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success, by William N. Thorndike, Jr., 2012; 226p `4`
 * Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering, by Malcolm Gladwell, 2024; 304p `4`
+* The Diary of a CEO: The 33 Laws of Business and Life, by Steven Barlett, 2023; Audiobook `4`
+* The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It, by Michael E Gerber, 2009; Audiobook `4`
 
-* WIP Good Strategy Bad Strategy
 * WIP In Over Our Heads: The Mental Demands of Modern Life, by Robert Kegan, 1994; 355p
+* WIP Made to Stick: Why Some Ideas Survive and Others Die, by Chip Heath and Dan Heath, 2007, 306p
+* WIP Making Numbers Count: The Art and Science of Communicating Numbers, by Chip Heath and Karla Starr, 2002, Audiobook
+* WIP Good Strategy Bad Strategy
 * WIP How to Use Financial Statments: A Guide to Understanding the Numbers, by James Bandler, 1994; 142p
 * WIP The New Economics, by W. Edwards Deming, 1994; 234p
 * WIP Modern Software Engineering
