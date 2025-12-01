@@ -1,9 +1,10 @@
-# 2025 (34)
+# 2025 (38)
 
-## fiction (16)
+## fiction (17)
 * The Bright Sword, by Lev Grossman, 2024; 673p `5`
 * The Grapes of Wrath, by John Steinbeck, 1939; 455p `5`
 * Flying Home and Other Stories, by Ralph Ellison, stories written between 1937 and 1954, published in 1996; 182p `4.5`
+* The Acts of King Arthur and his Noble Knights, by John Steinbeck, 1976, 316p `4`
 
 ### Bobiverse - by Dennis E. Taylor
 * We Are Legion (We Are Bob), 2016; 299p `4.5`
@@ -24,7 +25,7 @@
 * The Eye of the Bedlam Bride, 2025; 832p `4`
 * This Inevitable Ruin, 2025; 880p `4`
   
-## non-fiction (18)
+## non-fiction (21)
 * The Fish That Ate the Whale: The Life and Times of America's Banana King, by Rich Cohen, 2013; Audiobook `5`
 * Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life, by William Green, 2021; Audiobook `5`
 * Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers, by Geoffrey A. Moore, 2012; Audiobook `5`
@@ -52,20 +53,12 @@ And know the place for the first time.
 * To Sell Is Human: The Surprising Truth About Moving Others, by Daniel Pink, 2013; 272p `3`
 * Skin in the Game: Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb, 2018; Audiobook `4.5`
 * Range: Why Generalists Triumph in a Specialized World Kindle Edition, by David J. Epstein, 2019; Audiobook `5`
+* Made to Stick: Why Some Ideas Survive and Others Die, by Chip Heath and Dan Heath, 2007; 306p `4.5`
+* Good Strategy Bad Strategy: The Difference and Why It Matters, by Richard Rumelt, 2011; 338p `5` (reread)
+* The Origin of Species, by Charles Darwin, 1859; Audiobook `5`
 
 Did Not Finish
 * In Over Our Heads: The Mental Demands of Modern Life, by Robert Kegan, 1994; 355p Ideas `5` Editing `3` (Peopleware bookclub)
-
-WIP
-* Made to Stick: Why Some Ideas Survive and Others Die, by Chip Heath and Dan Heath, 2007, 306p
-* Observability Engineering
-* To The Lighthouse
-* Good Strategy Bad Strategy
-* How to Use Financial Statments: A Guide to Understanding the Numbers, by James Bandler, 1994; 142p
-* The New Economics, by W. Edwards Deming, 1994; 234p
-* Modern Software Engineering
-* The Seven Habits of Highly Effective People
-* The Anatomy of Fascism
 
 # 2024 (36)
 
