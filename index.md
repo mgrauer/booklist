@@ -28,6 +28,11 @@
 ## non-fiction (21)
 * The Fish That Ate the Whale: The Life and Times of America's Banana King, by Rich Cohen, 2013; Audiobook `5`
 * Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life, by William Green, 2021; Audiobook `5`
+* Good Strategy Bad Strategy: The Difference and Why It Matters, by Richard Rumelt, 2011; 338p `5` (reread)
+* The Origin of Species, by Charles Darwin, 1859; Audiobook `5`
+* The Righteous Mind: Why Good People Are Divided by Politics and Religion, by Jonathan Haidt, 2013; Audiobook `5`
+* Range: Why Generalists Triumph in a Specialized World Kindle Edition, by David J. Epstein, 2019; Audiobook `5`
+* Clear Thinking: Turning Ordinary Moments into Extraordinary Results, by Shane Parrish, 2023; Audiobook `5`
 * Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers, by Geoffrey A. Moore, 2012; Audiobook `5`
 
 ```
@@ -39,6 +44,8 @@ And know the place for the first time.
 --T. S. Eliot
 
 * Sam Walton, Made in America, by Sam Walton with John Huey, 1993; Audiobook `4.5`
+* Skin in the Game: Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb, 2018; Audiobook `4.5`
+* Made to Stick: Why Some Ideas Survive and Others Die, by Chip Heath and Dan Heath, 2007; 306p `4.5`
 * Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts, by Annie Duke, 2018; 288p `4`
 * Silence: In the Age of Noise, by Erling Kagge (Author) and Becky L. Crook (Translator), 2017; 158p `4`
 * The Little Book that Still Beats the Market, by Joel Greenblatt, 2010; 183p `4`
@@ -48,14 +55,7 @@ And know the place for the first time.
 * The Diary of a CEO: The 33 Laws of Business and Life, by Steven Barlett, 2023; Audiobook `4`
 * The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It, by Michael E Gerber, 2009; Audiobook `4`
 * Making Numbers Count: The Art and Science of Communicating Numbers, by Chip Heath and Karla Starr, 2002; Audiobook `4`
-* Clear Thinking: Turning Ordinary Moments into Extraordinary Results, by Shane Parrish, 2023; Audiobook `5`
-* The Righteous Mind: Why Good People Are Divided by Politics and Religion, by Jonathan Haidt, 2013; Audiobook `5`
 * To Sell Is Human: The Surprising Truth About Moving Others, by Daniel Pink, 2013; 272p `3`
-* Skin in the Game: Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb, 2018; Audiobook `4.5`
-* Range: Why Generalists Triumph in a Specialized World Kindle Edition, by David J. Epstein, 2019; Audiobook `5`
-* Made to Stick: Why Some Ideas Survive and Others Die, by Chip Heath and Dan Heath, 2007; 306p `4.5`
-* Good Strategy Bad Strategy: The Difference and Why It Matters, by Richard Rumelt, 2011; 338p `5` (reread)
-* The Origin of Species, by Charles Darwin, 1859; Audiobook `5`
 
 Did Not Finish
 * In Over Our Heads: The Mental Demands of Modern Life, by Robert Kegan, 1994; 355p Ideas `5` Editing `3` (Peopleware bookclub)
