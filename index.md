@@ -1,4 +1,4 @@
-# 2025 (38)
+# 2025 (39)
 
 ## fiction (17)
 * The Bright Sword, by Lev Grossman, 2024; 673p `5`
@@ -25,7 +25,7 @@
 * The Eye of the Bedlam Bride, 2025; 832p `4`
 * This Inevitable Ruin, 2025; 880p `4`
   
-## non-fiction (21)
+## non-fiction (22)
 * The Fish That Ate the Whale: The Life and Times of America's Banana King, by Rich Cohen, 2013; Audiobook `5`
 * Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life, by William Green, 2021; Audiobook `5`
 * Good Strategy Bad Strategy: The Difference and Why It Matters, by Richard Rumelt, 2011; 338p `5` (reread)
@@ -55,6 +55,7 @@ And know the place for the first time.
 * The Diary of a CEO: The 33 Laws of Business and Life, by Steven Barlett, 2023; Audiobook `4`
 * The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It, by Michael E Gerber, 2009; Audiobook `4`
 * Making Numbers Count: The Art and Science of Communicating Numbers, by Chip Heath and Karla Starr, 2002; Audiobook `4`
+* 12 Rules for Life: An Antidote to Chaos, by Jordan Peterson, 2018; Audiobook `4`
 * To Sell Is Human: The Surprising Truth About Moving Others, by Daniel Pink, 2013; 272p `3`
 
 Did Not Finish
