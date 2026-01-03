@@ -1,8 +1,9 @@
-# 2025 (39)
+# 2025 (40)
 
-## fiction (17)
+## fiction (18)
 * The Bright Sword, by Lev Grossman, 2024; 673p `5`
 * The Grapes of Wrath, by John Steinbeck, 1939; 455p `5`
+* The Unbearable Lightness of Being, by Milan Kundera, 1984; 320p `5`
 * Flying Home and Other Stories, by Ralph Ellison, stories written between 1937 and 1954, published in 1996; 182p `4.5`
 * The Acts of King Arthur and his Noble Knights, by John Steinbeck, 1976, 316p `4`
 
