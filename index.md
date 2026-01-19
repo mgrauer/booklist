@@ -1,3 +1,17 @@
+# 2026 (0)
+
+## fiction (0)
+
+## non-fiction (2)
+
+* Turn the Ship Around! A True Story of Turning Followers Into Leaders, by L. David Marquet, 2013; Audiobook `5`
+* On Tyranny: Twenty Lessons from the Twentieth Century, by Timothy Snyder, illustrated by Nora Krug; 2017 and illustrated edition in 2021; 120p `4`
+  
+```
+In politics, being deceived is no excuse.
+```
+--Leszek Kolakowski
+
 # 2025 (40)
 
 ## fiction (18)
