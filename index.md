@@ -1,16 +1,41 @@
-# 2026 (0)
+# 2026 (12)
 
-## fiction (0)
+## fiction (5)
 
-## non-fiction (2)
+* Cloud Cuckoo Land, by Anthony Doerr, 2021; 640p `5`
+* Intermezzo, by Sally Rooney, 2024; 448p `4.5`
+* Project Hail Mary, by Andy Weir, 2021; 496p `4.5`
+* Children of Time, by Adrian Tchaikovsky, 2015; 600p `4.5`
+* The Blacktongue Thief, by Christopher Buehlman, 2021; 416p `4.5`
 
+## non-fiction (7)
+
+* The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook, by Hampton Sides, 2024; 432p `5`
+* A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains, by Max Bennett, 2023; Audiobook `5`
 * Turn the Ship Around! A True Story of Turning Followers Into Leaders, by L. David Marquet, 2013; Audiobook `5`
+* Man's Search for Meaning, by Viktor E. Frankl, 1946; 200p `5`
+* The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance, by W. Timothy Gallwey, 1974; Audiobook `4`
 * On Tyranny: Twenty Lessons from the Twentieth Century, by Timothy Snyder, illustrated by Nora Krug; 2017 and illustrated edition in 2021; 120p `4`
   
 ```
 In politics, being deceived is no excuse.
 ```
 --Leszek Kolakowski
+
+* The Nvidia Way: Jensen Huang and the Making of a Tech Giant, by Tae Kim, 2024; 272p `3.5`
+
+## WIP (10)
+
+* The Practice of Adaptive Leadership (Peopleware bookclub)
+* The New Map
+* American Prometheus
+* The Effective Manager (Peopleware bookclub)
+* Three Farmers on Their Way to a Dance
+* A Little Hatred
+* Think Like a Rocket Scientist
+* The Long Way to a Small, Angry Planet
+* The Upside of Stress (Audiobook)
+* A World Appears (Audiobook)
 
 # 2025 (40)
 
