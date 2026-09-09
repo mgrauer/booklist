@@ -1,6 +1,6 @@
-# 2026 (17)
+# 2026 (18)
 
-## fiction (9)
+## fiction (10)
 
 * Cloud Cuckoo Land, by Anthony Doerr, 2021; 640p `5`
 * Intermezzo, by Sally Rooney, 2024; 448p `4.5`
@@ -8,6 +8,7 @@
 * Children of Time, by Adrian Tchaikovsky, 2015; 600p `4.5`
 * The Blacktongue Thief, by Christopher Buehlman, 2021; 416p `4.5`
 * Tortilla Flat, by John Steinbeck, 1935; 224p `4`
+* Of Mice and Men, by John Steinbeck, 1937; 107p `5`
 * To Have and Have Not, by Ernest Hemingway, 1937; 264p `4`
 * The Kite Runner, by Khaled Hosseini, 2003; 336p `5`
 * Discount Dan, by James A. Hunter, 2025; 512p `4`
