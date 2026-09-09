@@ -1,6 +1,6 @@
-# 2026 (14)
+# 2026 (16)
 
-## fiction (6)
+## fiction (8)
 
 * Cloud Cuckoo Land, by Anthony Doerr, 2021; 640p `5`
 * Intermezzo, by Sally Rooney, 2024; 448p `4.5`
@@ -8,6 +8,8 @@
 * Children of Time, by Adrian Tchaikovsky, 2015; 600p `4.5`
 * The Blacktongue Thief, by Christopher Buehlman, 2021; 416p `4.5`
 * Tortilla Flat, by John Steinbeck, 1935; 224p `4`
+* To Have and Have Not, by Ernest Hemingway, 1937; 264p `4`
+* The Kite Runner, by Khaled Hosseini, 2003; 336p `5`
 
 ## non-fiction (8)
 
@@ -26,7 +28,7 @@ In politics, being deceived is no excuse.
 
 * The Nvidia Way: Jensen Huang and the Making of a Tech Giant, by Tae Kim, 2024; 272p `3.5`
 
-## WIP (10)
+## WIP (9)
 
 * The Practice of Adaptive Leadership (Peopleware bookclub)
 * The New Map
@@ -37,7 +39,6 @@ In politics, being deceived is no excuse.
 * Think Like a Rocket Scientist
 * The Long Way to a Small, Angry Planet
 * The Upside of Stress (Audiobook)
-* To Have and Have Not
 
 # 2025 (40)
 
