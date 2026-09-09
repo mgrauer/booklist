@@ -1,6 +1,6 @@
-# 2026 (16)
+# 2026 (17)
 
-## fiction (8)
+## fiction (9)
 
 * Cloud Cuckoo Land, by Anthony Doerr, 2021; 640p `5`
 * Intermezzo, by Sally Rooney, 2024; 448p `4.5`
@@ -10,6 +10,7 @@
 * Tortilla Flat, by John Steinbeck, 1935; 224p `4`
 * To Have and Have Not, by Ernest Hemingway, 1937; 264p `4`
 * The Kite Runner, by Khaled Hosseini, 2003; 336p `5`
+* Discount Dan, by James A. Hunter, 2025; 512p `4`
 
 ## non-fiction (8)
 
