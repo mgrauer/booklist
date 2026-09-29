@@ -30,7 +30,7 @@ In politics, being deceived is no excuse.
 
 * The Nvidia Way: Jensen Huang and the Making of a Tech Giant, by Tae Kim, 2024; 272p `3.5`
 
-## WIP (9)
+## WIP (12)
 
 * The Practice of Adaptive Leadership (Peopleware bookclub)
 * The New Map
@@ -41,6 +41,9 @@ In politics, being deceived is no excuse.
 * Think Like a Rocket Scientist
 * The Long Way to a Small, Angry Planet
 * The Upside of Stress (Audiobook)
+* The Shortest History of Italy
+* Thanks for the Feedback
+* Brideshead Revisited
 
 # 2025 (40)
 
