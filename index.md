@@ -36,7 +36,7 @@ In politics, being deceived is no excuse.
 * The Shortest History of Italy, by Ross King, 2024; `4.5`
 * The Swerve: How the World Became Modern, by Stephen Greenblatt, 2011; Audiobook `5`
 
-## WIP (10)
+## WIP (13)
 
 * The Practice of Adaptive Leadership (Peopleware bookclub)
 * The New Map
@@ -48,6 +48,9 @@ In politics, being deceived is no excuse.
 * The Long Way to a Small, Angry Planet
 * The Upside of Stress (Audiobook)
 * Thanks for the Feedback
+* Taiwan Travelogue
+* The Conformist, by Alberto Moravia
+* The Day of Battle, by Rick Atkinson (Audiobook)
 
 # 2025 (40)
 
