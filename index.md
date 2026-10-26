@@ -1,6 +1,6 @@
-# 2026 (18)
+# 2026 (24)
 
-## fiction (10)
+## fiction (14)
 
 * Cloud Cuckoo Land, by Anthony Doerr, 2021; 640p `5`
 * Intermezzo, by Sally Rooney, 2024; 448p `4.5`
@@ -12,8 +12,12 @@
 * To Have and Have Not, by Ernest Hemingway, 1937; 264p `4`
 * The Kite Runner, by Khaled Hosseini, 2003; 336p `5`
 * Discount Dan, by James A. Hunter, 2025; 512p `4`
+* Ancillary Justice, by Ann Leckie, 2013; `5`
+* Brideshead Revisited, by Evelyn Waugh, 1945; `5`
+* Elizabeth, by Ken Greenhall (as Jessica Hamilton), 1976; `4`
+* Ethan Frome, by Edith Wharton, 1911; `4.5`
 
-## non-fiction (8)
+## non-fiction (10)
 
 * The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook, by Hampton Sides, 2024; 432p `5`
 * A World Appears: A Journey Into Consciousness, by Michael Pollan, 2026; Audiobook `5`
@@ -29,8 +33,10 @@ In politics, being deceived is no excuse.
 --Leszek Kolakowski
 
 * The Nvidia Way: Jensen Huang and the Making of a Tech Giant, by Tae Kim, 2024; 272p `3.5`
+* The Shortest History of Italy, by Ross King, 2024; `4.5`
+* The Swerve: How the World Became Modern, by Stephen Greenblatt, 2011; Audiobook `5`
 
-## WIP (12)
+## WIP (10)
 
 * The Practice of Adaptive Leadership (Peopleware bookclub)
 * The New Map
@@ -41,9 +47,7 @@ In politics, being deceived is no excuse.
 * Think Like a Rocket Scientist
 * The Long Way to a Small, Angry Planet
 * The Upside of Stress (Audiobook)
-* The Shortest History of Italy
 * Thanks for the Feedback
-* Brideshead Revisited
 
 # 2025 (40)
 
