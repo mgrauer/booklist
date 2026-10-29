@@ -1,6 +1,6 @@
-# 2026 (24)
+# 2026 (25)
 
-## fiction (14)
+## fiction (15)
 
 * Cloud Cuckoo Land, by Anthony Doerr, 2021; 640p `5`
 * Intermezzo, by Sally Rooney, 2024; 448p `4.5`
@@ -16,6 +16,7 @@
 * Brideshead Revisited, by Evelyn Waugh, 1945; `5`
 * Elizabeth, by Ken Greenhall (as Jessica Hamilton), 1976; `4`
 * Ethan Frome, by Edith Wharton, 1911; `4.5`
+* Taiwan Travelogue, by Yang Shuang-zi, translated by Lin King, 2024; 320p `4.5`
 
 ## non-fiction (10)
 
@@ -36,7 +37,7 @@ In politics, being deceived is no excuse.
 * The Shortest History of Italy, by Ross King, 2024; `4.5`
 * The Swerve: How the World Became Modern, by Stephen Greenblatt, 2011; Audiobook `5`
 
-## WIP (13)
+## WIP (12)
 
 * The Practice of Adaptive Leadership (Peopleware bookclub)
 * The New Map
@@ -48,7 +49,6 @@ In politics, being deceived is no excuse.
 * The Long Way to a Small, Angry Planet
 * The Upside of Stress (Audiobook)
 * Thanks for the Feedback
-* Taiwan Travelogue
 * The Conformist, by Alberto Moravia
 * The Day of Battle, by Rick Atkinson (Audiobook)
 
