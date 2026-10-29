@@ -1,16 +1,27 @@
-# 2026 (12)
+# 2026 (25)
 
-## fiction (5)
+## fiction (15)
 
 * Cloud Cuckoo Land, by Anthony Doerr, 2021; 640p `5`
 * Intermezzo, by Sally Rooney, 2024; 448p `4.5`
 * Project Hail Mary, by Andy Weir, 2021; 496p `4.5`
 * Children of Time, by Adrian Tchaikovsky, 2015; 600p `4.5`
 * The Blacktongue Thief, by Christopher Buehlman, 2021; 416p `4.5`
+* Tortilla Flat, by John Steinbeck, 1935; 224p `4`
+* Of Mice and Men, by John Steinbeck, 1937; 107p `5`
+* To Have and Have Not, by Ernest Hemingway, 1937; 264p `4`
+* The Kite Runner, by Khaled Hosseini, 2003; 336p `5`
+* Discount Dan, by James A. Hunter, 2025; 512p `4`
+* Ancillary Justice, by Ann Leckie, 2013; `5`
+* Brideshead Revisited, by Evelyn Waugh, 1945; `5`
+* Elizabeth, by Ken Greenhall (as Jessica Hamilton), 1976; `4`
+* Ethan Frome, by Edith Wharton, 1911; `4.5`
+* Taiwan Travelogue, by Yang Shuang-zi, translated by Lin King, 2024; 320p `4.5`
 
-## non-fiction (7)
+## non-fiction (10)
 
 * The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook, by Hampton Sides, 2024; 432p `5`
+* A World Appears: A Journey Into Consciousness, by Michael Pollan, 2026; Audiobook `5`
 * A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains, by Max Bennett, 2023; Audiobook `5`
 * Turn the Ship Around! A True Story of Turning Followers Into Leaders, by L. David Marquet, 2013; Audiobook `5`
 * Man's Search for Meaning, by Viktor E. Frankl, 1946; 200p `5`
@@ -23,8 +34,10 @@ In politics, being deceived is no excuse.
 --Leszek Kolakowski
 
 * The Nvidia Way: Jensen Huang and the Making of a Tech Giant, by Tae Kim, 2024; 272p `3.5`
+* The Shortest History of Italy, by Ross King, 2024; `4.5`
+* The Swerve: How the World Became Modern, by Stephen Greenblatt, 2011; Audiobook `5`
 
-## WIP (10)
+## WIP (12)
 
 * The Practice of Adaptive Leadership (Peopleware bookclub)
 * The New Map
@@ -35,7 +48,9 @@ In politics, being deceived is no excuse.
 * Think Like a Rocket Scientist
 * The Long Way to a Small, Angry Planet
 * The Upside of Stress (Audiobook)
-* A World Appears (Audiobook)
+* Thanks for the Feedback
+* The Conformist, by Alberto Moravia
+* The Day of Battle, by Rick Atkinson (Audiobook)
 
 # 2025 (40)
 
